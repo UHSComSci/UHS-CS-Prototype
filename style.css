@@ -202,7 +202,7 @@
     
     transform: translateY(8px) rotate(45deg);
   }
-/* first bar */
+/* 3rd bar */
 #mobile-menu.is-active .bar:nth-child(3) {
     transform: translateY(-8px) rotate(-45deg);
   }
