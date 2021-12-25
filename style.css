@@ -1,11 +1,16 @@
+@font-face {
+    src: url(SF-UI-Display-Bold.ttf);
+    font-family: SFBold;
+  }
+
 /* inital styling */
 *{
     box-sizing: border-box;
     margin: 0;
     padding:0;
     scroll-behavior: smooth;
-    font-family: 'Kumbh Sans', sans-serif;
 }
+
 
 /* styling for class navbar */
 .navbar{
